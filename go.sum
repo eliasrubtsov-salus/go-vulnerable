@@ -1,1 +1,14 @@
-
+github.com/gin-gonic/gin v1.9.1 h1:k4SHFBDiQlFC44w2/M0YBl2+D0KIu+EUXzi+AsjCoh0=
+github.com/gin-gonic/gin v1.9.1/go.mod h1:k4SHFBDiQlFC44w2/M0YBl2+D0KIu+EUXzi+AsjCoh0=
+github.com/golang-jwt/jwt/v4 v4.5.0 h1:D45njmSVtlLFyK7Bh5yBcc1v8c9DX7R/5TY2L4iZQpk=
+github.com/golang-jwt/jwt/v4 v4.5.0/go.mod h1:D45njmSVtlLFyK7Bh5yBcc1v8c9DX7R/5TY2L4iZQpk=
+github.com/gorilla/websocket v1.4.1 h1:CdyKkielTBBp6gZdYQpfLKGV8fX7pufbstfrD9bgHfY=
+github.com/gorilla/websocket v1.4.1/go.mod h1:CdyKkielTBBp6gZdYQpfLKGV8fX7pufbstfrD9bgHfY=
+github.com/opencontainers/runc v1.4.0-rc.3 h1:eZ7dWxGWl7bN2ZkiNBPE48Lb08mebNbRoHC/OLdm/Dc=
+github.com/opencontainers/runc v1.4.0-rc.3/go.mod h1:eZ7dWxGWl7bN2ZkiNBPE48Lb08mebNbRoHC/OLdm/Dc=
+golang.org/x/crypto v0.45.0 h1:bu53T+acKGMprArpbFUKU/Ytwa0yCzTSty6J5/csKKk=
+golang.org/x/crypto v0.45.0/go.mod h1:bu53T+acKGMprArpbFUKU/Ytwa0yCzTSty6J5/csKKk=
+golang.org/x/net v0.38.0 h1:QM4pKslRF68tWVcPIkktFySFRcQIR+VzwJJKcMl1ryQ=
+golang.org/x/net v0.38.0/go.mod h1:QM4pKslRF68tWVcPIkktFySFRcQIR+VzwJJKcMl1ryQ=
+gopkg.in/yaml.v2 v2.2.8 h1:iNl50vCT0jl/dWvIbvosoD9zpg1mjOs5GzUQAp8/fPw=
+gopkg.in/yaml.v2 v2.2.8/go.mod h1:iNl50vCT0jl/dWvIbvosoD9zpg1mjOs5GzUQAp8/fPw=
